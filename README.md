@@ -1,5 +1,7 @@
 # INFO6105-Final-Capstone-Project-Smoker-Status-Prediction--Nikhil-Sakhare
 
+https://smoker-prediction-info6105-nikhilsakhare.streamlit.app/
+
 # Smoker Status Prediction App
 
 This Streamlit application predicts whether a person is likely to be a smoker based on various demographic and health-related attributes. It's designed to help healthcare providers, insurance companies, and individuals understand factors influencing smoking behavior.
